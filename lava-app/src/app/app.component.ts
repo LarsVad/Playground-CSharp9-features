@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'lava-app';
+  description = 'This is a description'
+  today = new Date()
+  magicNumber = 42 
 }
